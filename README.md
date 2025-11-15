@@ -48,10 +48,8 @@ Magnetic field (H) is like the heat.
 Poynting vector (S = E × H) is the energy flow from the Sun to the clothes.
 
 👉 Where light and heat come together, energy is delivered.
-
 👉 This is exactly how electromagnetic energy flows.
 
-      
 ![WashingGeneric](https://github.com/user-attachments/assets/826cb91a-9f07-494b-a133-49b46e0299a0)
 
 ## **  ANALOGY FOR TRANSMISSION LINES**
