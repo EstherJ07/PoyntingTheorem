@@ -39,7 +39,6 @@ where:
 
 Imagine you are drying clothes in sunlight.
 The sunlight carries energy.
-
 You cannot see the energy moving, but it travels from the Sun to your clothes.
 The combination of heat + light is what delivers this energy.
 
