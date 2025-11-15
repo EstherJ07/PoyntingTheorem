@@ -113,5 +113,6 @@ Poynting’s theorem is therefore crucial in understanding how microwaves delive
 
 ## **Conclusion**
 
-<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 07_25_34 AM" src="https://github.com/user-attachments/assets/00fee9d4-796a-4c4e-8e9c-60b438c75fcf" />
+<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 07_29_29 AM" src="https://github.com/user-attachments/assets/be1b52cc-e45c-4e10-856a-f63883c9538d" />
+
 
