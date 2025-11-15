@@ -52,7 +52,7 @@ Poynting vector (S = E × H) is the energy flow from the Sun to the clothes.
 
 ![WashingGeneric](https://github.com/user-attachments/assets/2ef9e6ea-90d7-493b-b63d-fc0e94815962)
 
-## **  ANALOGY FOR TRANSMISSION LINES**
+## **ANALOGY FOR TRANSMISSION LINES**
 
 Think of a garden pipe carrying water.
 The pipe is like the conductors.
