@@ -47,7 +47,8 @@ Electric field (E) is like the light.
 Magnetic field (H) is like the heat.
 Poynting vector (S = E × H) is the energy flow from the Sun to the clothes.
 
-👉 Where light and heat come together, energy is delivered.This is exactly how electromagnetic energy flows.
+👉 Where light and heat come together, energy is delivered.
+This is exactly how electromagnetic energy flows.
 ![WashingGeneric](https://github.com/user-attachments/assets/2ef9e6ea-90d7-493b-b63d-fc0e94815962)
 
 ## **ANALOGY FOR TRANSMISSION LINES**
@@ -69,7 +70,7 @@ E-field + H-field → Energy movement
 
 ## ![istockphoto-140450017-612x612 (1)](https://github.com/user-attachments/assets/94cb2742-2255-45aa-a799-18df5e0d9775)
 
-**Real-Time Application in Microwave Ovens**
+## **Real-Time Application in Microwave Ovens**
 
 In microwave ovens:
 
@@ -112,6 +113,5 @@ Poynting’s theorem is therefore crucial in understanding how microwaves delive
 
 ## **Conclusion**
 
-Poynting’s Theorem bridges theoretical electromagnetics and real-world communication systems.
-In radar and satellite applications, it explains how energy moves through electromagnetic fields, ensuring that all transmitted power is accounted for in storage, loss, or reception.
-By understanding this, engineers can analyze, optimize, and control energy flow, making radar and satellite communication systems more efficient and reliable.
+<img width="1536" height="1024" alt="ChatGPT Image Nov 15, 2025, 07_25_34 AM" src="https://github.com/user-attachments/assets/00fee9d4-796a-4c4e-8e9c-60b438c75fcf" />
+
