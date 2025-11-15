@@ -47,9 +47,7 @@ Electric field (E) is like the light.
 Magnetic field (H) is like the heat.
 Poynting vector (S = E × H) is the energy flow from the Sun to the clothes.
 
-👉 Where light and heat come together, energy is delivered.
-👉 This is exactly how electromagnetic energy flows.
-
+👉 Where light and heat come together, energy is delivered.This is exactly how electromagnetic energy flows.
 ![WashingGeneric](https://github.com/user-attachments/assets/2ef9e6ea-90d7-493b-b63d-fc0e94815962)
 
 ## **ANALOGY FOR TRANSMISSION LINES**
@@ -58,13 +56,11 @@ Think of a garden pipe carrying water.
 The pipe is like the conductors.
 
 The water flowing inside is like energy flowing in the space around the conductors.
-
 The pipe walls don’t carry water only the inside space does.
 
 Similarly:
 
 Power in a transmission line flows in the space between and around the wires, not inside the metal wire itself.
-
 The E-field and H-field around the wire are like:
 
 Pressure + Flow → Water movement
@@ -73,7 +69,7 @@ E-field + H-field → Energy movement
 
 ## ![istockphoto-140450017-612x612 (1)](https://github.com/user-attachments/assets/94cb2742-2255-45aa-a799-18df5e0d9775)
 
-*Real-Time Application in Microwave Ovens**
+**Real-Time Application in Microwave Ovens**
 
 In microwave ovens:
 
