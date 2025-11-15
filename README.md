@@ -52,7 +52,10 @@ Poynting vector (S = E × H) is the energy flow from the Sun to the clothes.
 
 👉 This is exactly how electromagnetic energy flows.
 
-## **ANALOGY FOR TRANSMISSION LINES**
+      
+![WashingGeneric](https://github.com/user-attachments/assets/826cb91a-9f07-494b-a133-49b46e0299a0)
+
+## **  ANALOGY FOR TRANSMISSION LINES**
 
 Think of a garden pipe carrying water.
 The pipe is like the conductors.
@@ -71,7 +74,9 @@ Pressure + Flow → Water movement
 
 E-field + H-field → Energy movement
 
-## **Real-Time Application in Microwave Ovens**
+## ![istockphoto-140450017-612x612 (1)](https://github.com/user-attachments/assets/94cb2742-2255-45aa-a799-18df5e0d9775)
+
+*Real-Time Application in Microwave Ovens**
 
 In microwave ovens:
 
@@ -93,6 +98,7 @@ Safe energy confinement inside the metal enclosure
 
 Poynting’s theorem is therefore crucial in understanding how microwaves deliver energy to food and ensuring efficient heating.
 
+![figure_001](https://github.com/user-attachments/assets/8a9244a4-8891-410f-8736-56c8b0eeb82c)
 
 ## **Advantages of Using Poynting’s Theorem**
 
